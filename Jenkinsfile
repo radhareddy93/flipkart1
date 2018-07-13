@@ -14,7 +14,7 @@ stages
   {
     steps
     {
-       sh 'mvn install'
+       sh'mvn install'
     }
   }
 }
