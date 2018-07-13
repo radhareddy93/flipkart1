@@ -7,7 +7,7 @@ stages
   {
     steps
     {
-      Checkout SCM
+      checkout scm
     }
   }
   stage('Build')
